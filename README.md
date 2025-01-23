@@ -2,286 +2,59 @@
 
 #### What are the characteristics of the fraudulent investment software provided by scammers? 骗徒提供的虚假投资软件有什么特点？
 
-Question 1Answer
+- Their interfaces are highly similar, even though they are different software. 即使是不同的软件，其页面相似度亦极高。
+- They contain mostly false information such as fake “customer updates”, “hot topics”, “top of sales”, etc. 软件内多为虚假资讯，比如虚假的“客户动态”、“热门话题”、“热销产品”等。
+- Fake customer service will chat with you and reject your request for retrieving funds with various excuses. 会有假客服与你聊天，并以各种借口拒绝你取回资金。
+- **All of the above. 以上皆是。**
 
-A.
-Their interfaces are highly similar, even though they are different software.
+#### Why do scammers want you to make investment? 骗徒希望你投资的目的是什么？
 
-即使是不同的软件，其页面相似度亦极高。
+- To help you earn money and get rich. 帮你赚钱，让你脱贫致富。
+- **To deceive you out of your money and leave you destitute. 骗你的钱，让你一贫如洗。**
 
+#### Which of the following situation(s) should you stay alert to? 如果网站出现以下哪些情况，便应提高警惕？
 
-B.
-They contain mostly false information such as fake “customer updates”, “hot topics”, “top of sales”, etc.
+- The websites/pages have run for a short period of time but have plenty of followers. 该网站／专页成立时间短，但却有许多追踪者（关注者／粉丝）。
+- The websites/pages change their names frequently, even once in a few days. 该网站／专页不断变更名称，频率甚至高达几天一次。
+- The websites/pages claim that they were founded in Hong Kong but neither their registered addresses nor administrators are in Hong Kong. 该网站／专页声称自己是香港公司，但实际登记地、管理员所在地均不在香港。
+- **All of the above. 以上皆是。**
 
-软件内多为虚假资讯，比如虚假的“客户动态”、“热门话题”、“热销产品”等。
+#### The caller alleges that you are suspected of committing crimes and asks you to bind your personal banking information to a designated app for investigation. What is their intention? 对方告知你涉嫌违法犯罪，需要在其指定的应用程式中绑定个人的银行资料以配合调查。对方的目的是？
 
+- **Access to your bank details to steal your assets. 获取你的银行资料，以窃取你的资产。**
+- Clear your name. 替你洗脱嫌疑。
+- All of the above. 以上皆是。
 
-C.
-Fake customer service will chat with you and reject your request for retrieving funds with various excuses.
+#### What can you do if you find the other party suspicious? 如果你认为对方的身分可疑，你可以怎么做？
 
-会有假客服与你聊天，并以各种借口拒绝你取回资金。
+- Check if the photos they post on social media platforms are online photos with search engines such as Google Lens and Baidu Image Search. 使用搜索引擎，比如Google 智能镜头、百度识图等，搜寻对方在社交账户发放的照片，查看是否为网图。
+- Check if there are abnormalities in the Moments of their accounts. 查看对方账户的朋友圈是否有异常。
+- **Both of them. 以上均可。**
 
+#### What factors does Scameter+ take into consideration when assessing the risk of fraud? (You may choose more than one answer) 防骗视伏App根据什么来评估诈骗风险？（多选题）
 
-D.
-All of the above.
+- **Public reports to the police. 市民向警方报案的记录。**
+- **Rating by information security companies. 资讯安全公司的评分。**
+- Subjective assessments of police officers. 警务人员的主观臆断。
 
-以上皆是。
+#### What are the four “Dos” (you may choose more than one answer)? “四要”是哪四项？（多选题）
 
-Feedback
-The correct answer is: All of the above.
-以上皆是。
-Question 2
-Correct
-Marked out of 1.00
-Flag question
-Question text
-Why do scammers want you to make investment?
+- **Verify their identities. 核实对方身分。**
+- **Hang up immediately. 立刻挂电话。**
+- **Stay vigilant against deception. 提防受骗。**
+- Call 18882. 致电18882。
+- **Call 18222. 致电18222。**
 
-骗徒希望你投资的目的是什么？
+#### Do only law enforcement agencies have your personal information? 只有执法人员才有获取你个人资料的渠道吗？
 
-Question 2Answer
+- Yes. Only law enforcement agencies have my personal information. 是的，只有执法机关拥有我的个人资料。
+- **No. We often use our personal information to conduct business, such as creating accounts, so our personal information is also recorded elsewhere. 不是，我们曾以个人资料办事，比如注册账号等。所以其他地方也会记录我们的个人资料。**
 
-A.
-To help you earn money and get rich.
+#### “We should not download apps, especially investment apps, from unofficial app stores to prevent being scammed.” Is this statement correct? “为防受骗，我们切勿从非指定官方的应用程序商店下载软件，尤其是投资类的软件。” 此话正确？
 
-帮你赚钱，让你脱贫致富。
+- **Yes. 正确。**
+- No. 不正确。
 
-
-B.
-To deceive you out of your money and leave you destitute.
-
-骗你的钱，让你一贫如洗。
-
-Feedback
-The correct answer is: To deceive you out of your money and leave you destitute.
-骗你的钱，让你一贫如洗。
-Question 3
-Correct
-Marked out of 1.00
-Flag question
-Question text
-Which of the following situation(s) should you stay alert to?
-
-如果网站出现以下哪些情况，便应提高警惕？
-
-Question 3Answer
-
-A.
-The websites/pages have run for a short period of time but have plenty of followers.
-
-该网站／专页成立时间短，但却有许多追踪者（关注者／粉丝）。
-
-
-B.
-The websites/pages change their names frequently, even once in a few days.
-
-该网站／专页不断变更名称，频率甚至高达几天一次。
-
-
-C.
-The websites/pages claim that they were founded in Hong Kong but neither their registered addresses nor administrators are in Hong Kong.
-
-该网站／专页声称自己是香港公司，但实际登记地、管理员所在地均不在香港。
-
-
-D.
-All of the above.
-
-以上皆是。
-
-Feedback
-The correct answer is: All of the above.
-以上皆是。
-Question 4
-Correct
-Marked out of 1.00
-Flag question
-Question text
-The caller alleges that you are suspected of committing crimes and asks you to bind your personal banking information to a designated app for investigation. What is their intention?
-
-对方告知你涉嫌违法犯罪，需要在其指定的应用程式中绑定个人的银行资料以配合调查。对方的目的是？
-
-Question 4Answer
-
-A.
-Access to your bank details to steal your assets.
-
-获取你的银行资料，以窃取你的资产。
-
-
-B.
-Clear your name.
-
-替你洗脱嫌疑。
-
-
-C.
-All of the above.
-
-以上皆是。
-
-Feedback
-The correct answer is: Access to your bank details to steal your assets.
-获取你的银行资料，以窃取你的资产。
-Question 5
-Correct
-Marked out of 1.00
-Flag question
-Question text
-What can you do if you find the other party suspicious?
-
-如果你认为对方的身分可疑，你可以怎么做？
-
-Question 5Answer
-
-A.
-Check if the photos they post on social media platforms are online photos with search engines such as Google Lens and Baidu Image Search.
-
-使用搜索引擎，比如Google 智能镜头、百度识图等，搜寻对方在社交账户发放的照片，查看是否为网图。
-
-
-B.
-Check if there are abnormalities in the Moments of their accounts.
-
-查看对方账户的朋友圈是否有异常。
-
-
-C.
-Both of them.
-
-以上均可。
-
-Feedback
-The correct answer is: Both of them.
-以上均可。
-Question 6
-Correct
-Marked out of 1.00
-Flag question
-Question text
-What factors does Scameter+ take into consideration when assessing the risk of fraud? (You may choose more than one answer)
-
-防骗视伏App根据什么来评估诈骗风险？（多选题）
-
-Question 6Answer
-
-A.
-Public reports to the police.
-
-市民向警方报案的记录。
-
-
-B.
-Rating by information security companies.
-
-资讯安全公司的评分。
-
-
-C.
-Subjective assessments of police officers.
-
-警务人员的主观臆断。
-
-Feedback
-The correct answers are: Public reports to the police.
-市民向警方报案的记录。, Rating by information security companies.
-资讯安全公司的评分。
-Question 7
-Correct
-Marked out of 1.00
-Flag question
-Question text
-What are the four “Dos” (you may choose more than one answer)?
-
-“四要”是哪四项？（多选题）
-
-Question 7Answer
-
-A.
-Verify their identities.
-
-核实对方身分。
-
-
-B.
-Hang up immediately.
-
-立刻挂电话。
-
-
-C.
-Stay vigilant against deception.
-
-提防受骗。
-
-
-D.
-Call 18882.
-
-致电18882。
-
-
-E.
-Call 18222.
-
-致电18222。
-
-Feedback
-The correct answers are: Verify their identities.
-核实对方身分。, Hang up immediately.
-立刻挂电话。, Stay vigilant against deception.
-提防受骗。, Call 18222.
-致电18222。
-Question 8
-Correct
-Marked out of 1.00
-Flag question
-Question text
-Do only law enforcement agencies have your personal information?
-
-只有执法人员才有获取你个人资料的渠道吗？
-
-Question 8Answer
-
-A.
-Yes. Only law enforcement agencies have my personal information.
-
-是的，只有执法机关拥有我的个人资料。
-
-
-B.
-No. We often use our personal information to conduct business, such as creating accounts, so our personal information is also recorded elsewhere.
-
-不是，我们曾以个人资料办事，比如注册账号等。所以其他地方也会记录我们的个人资料。
-
-Feedback
-The correct answer is: No. We often use our personal information to conduct business, such as creating accounts, so our personal information is also recorded elsewhere.
-不是，我们曾以个人资料办事，比如注册账号等。所以其他地方也会记录我们的个人资料。
-Question 9
-Correct
-Marked out of 1.00
-Flag question
-Question text
-“We should not download apps, especially investment apps, from unofficial app stores to prevent being scammed.” Is this statement correct?
-
-“为防受骗，我们切勿从非指定官方的应用程序商店下载软件，尤其是投资类的软件。” 此话正确？
-
-Question 9Answer
-
-A.
-Yes.
-
-正确。
-
-
-B.
-No.
-
-不正确。
-
-Feedback
-The correct answer is: Yes.
-正确。
 Question 10
 Correct
 Marked out of 1.00
