@@ -997,56 +997,19 @@ Incorrect
 Marked out of 1.00
 Flag question
 Question text
-The search results of Scameter are categorised into four levels, which of the followings is the level of suspicion in descending order?
 
-防骗视伏器有四个程度的搜寻结果，按照可疑程度从高到低排序依次是？
+#### The search results of Scameter are categorised into four levels, which of the followings is the level of suspicion in descending order? 防骗视伏器有四个程度的搜寻结果，按照可疑程度从高到低排序依次是？
 
-Question 34Answer
+- High risk – Possible risk – Potential risk – No record 高危有伏—疑似有伏—可能有伏—未有记录。
+- **High risk – Potential risk – Possible risk – No record 高危有伏—可能有伏—疑似有伏—未有记录。**
+- Possible risk – High risk – Potential risk – No record 疑似有伏—高危有伏—可能有伏—未有记录 。
 
-A.
-High risk – Possible risk – Potential risk – No record
+---
 
-高危有伏—疑似有伏—可能有伏—未有记录。
+#### What is the major function of the “Anti-Scam Helpline 18222”? 防骗易热线“18222”的主要作用是？
 
+- **Provide round-the-clock anti-deception consultation. The general public can dial the number for enquiries if they suspect that they have fallen prey to scams. 为市民提供全天候的防骗咨询服务。如果市民怀疑受骗，可致电咨询。**
+- Replace the emergency service hotline 999. 代替999紧急服务热线。
+- Enhance internal communication within the Hong Kong Police Force. 加强香港警务处的内部沟通。
 
-B.
-High risk – Potential risk – Possible risk – No record
-
-高危有伏—可能有伏—疑似有伏—未有记录。
-
-
-C.
-Possible risk – High risk – Potential risk – No record
-
-疑似有伏—高危有伏—可能有伏—未有记录 。
-
-Feedback
-The correct answer is: High risk – Potential risk – Possible risk – No record
-高危有伏—可能有伏—疑似有伏—未有记录。
-Question 35
-Correct
-Marked out of 1.00
-Flag question
-Question text
-What is the major function of the “Anti-Scam Helpline 18222”?
-
-防骗易热线“18222”的主要作用是？
-
-Question 35Answer
-
-A.
-Provide round-the-clock anti-deception consultation. The general public can dial the number for enquiries if they suspect that they have fallen prey to scams.
-
-为市民提供全天候的防骗咨询服务。如果市民怀疑受骗，可致电咨询。
-
-
-B.
-Replace the emergency service hotline 999.
-
-代替999紧急服务热线。
-
-
-C.
-Enhance internal communication within the Hong Kong Police Force.
-
-加强香港警务处的内部沟通。
+---
