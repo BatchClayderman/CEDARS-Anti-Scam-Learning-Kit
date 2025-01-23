@@ -1,5 +1,7 @@
 # CEDARS Anti Scam Learning Kit
 
+---
+
 #### What are the characteristics of the fraudulent investment software provided by scammers? 骗徒提供的虚假投资软件有什么特点？
 
 - Their interfaces are highly similar, even though they are different software. 即使是不同的软件，其页面相似度亦极高。
@@ -7,10 +9,14 @@
 - Fake customer service will chat with you and reject your request for retrieving funds with various excuses. 会有假客服与你聊天，并以各种借口拒绝你取回资金。
 - **All of the above. 以上皆是。**
 
+---
+
 #### Why do scammers want you to make investment? 骗徒希望你投资的目的是什么？
 
 - To help you earn money and get rich. 帮你赚钱，让你脱贫致富。
 - **To deceive you out of your money and leave you destitute. 骗你的钱，让你一贫如洗。**
+
+---
 
 #### Which of the following situation(s) should you stay alert to? 如果网站出现以下哪些情况，便应提高警惕？
 
@@ -19,11 +25,15 @@
 - The websites/pages claim that they were founded in Hong Kong but neither their registered addresses nor administrators are in Hong Kong. 该网站／专页声称自己是香港公司，但实际登记地、管理员所在地均不在香港。
 - **All of the above. 以上皆是。**
 
+---
+
 #### The caller alleges that you are suspected of committing crimes and asks you to bind your personal banking information to a designated app for investigation. What is their intention? 对方告知你涉嫌违法犯罪，需要在其指定的应用程式中绑定个人的银行资料以配合调查。对方的目的是？
 
 - **Access to your bank details to steal your assets. 获取你的银行资料，以窃取你的资产。**
 - Clear your name. 替你洗脱嫌疑。
 - All of the above. 以上皆是。
+
+---
 
 #### What can you do if you find the other party suspicious? 如果你认为对方的身分可疑，你可以怎么做？
 
@@ -31,11 +41,15 @@
 - Check if there are abnormalities in the Moments of their accounts. 查看对方账户的朋友圈是否有异常。
 - **Both of them. 以上均可。**
 
+---
+
 #### What factors does Scameter+ take into consideration when assessing the risk of fraud? (You may choose more than one answer) 防骗视伏App根据什么来评估诈骗风险？（多选题）
 
 - **Public reports to the police. 市民向警方报案的记录。**
 - **Rating by information security companies. 资讯安全公司的评分。**
 - Subjective assessments of police officers. 警务人员的主观臆断。
+
+---
 
 #### What are the four “Dos” (you may choose more than one answer)? “四要”是哪四项？（多选题）
 
@@ -45,15 +59,21 @@
 - Call 18882. 致电18882。
 - **Call 18222. 致电18222。**
 
+---
+
 #### Do only law enforcement agencies have your personal information? 只有执法人员才有获取你个人资料的渠道吗？
 
 - Yes. Only law enforcement agencies have my personal information. 是的，只有执法机关拥有我的个人资料。
 - **No. We often use our personal information to conduct business, such as creating accounts, so our personal information is also recorded elsewhere. 不是，我们曾以个人资料办事，比如注册账号等。所以其他地方也会记录我们的个人资料。**
 
+---
+
 #### “We should not download apps, especially investment apps, from unofficial app stores to prevent being scammed.” Is this statement correct? “为防受骗，我们切勿从非指定官方的应用程序商店下载软件，尤其是投资类的软件。” 此话正确？
 
 - **Yes. 正确。**
 - No. 不正确。
+
+---
 
 Question 10
 Correct
