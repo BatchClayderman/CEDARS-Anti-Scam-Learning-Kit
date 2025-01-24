@@ -1,5 +1,7 @@
 # CEDARS Anti Scam Learning Kit
 
+[https://moodle-infohub.hku.hk/course/view.php?id=124349](https://moodle-infohub.hku.hk/course/view.php?id=124349)
+
 ---
 
 #### What are the characteristics of the fraudulent investment software provided by scammers? 骗徒提供的虚假投资软件有什么特点？
