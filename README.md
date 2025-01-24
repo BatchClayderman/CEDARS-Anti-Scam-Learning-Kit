@@ -1,6 +1,7 @@
 # CEDARS Anti Scam Learning Kit
 
-[https://moodle-infohub.hku.hk/course/view.php?id=124349](https://moodle-infohub.hku.hk/course/view.php?id=124349)
+- Link: [https://moodle-infohub.hku.hk/course/view.php?id=124349](https://moodle-infohub.hku.hk/course/view.php?id=124349)
+- Date: On or before February 17th, 2025 (Monday)
 
 ---
 
